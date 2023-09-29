@@ -1,0 +1,6 @@
+{
+  "name": "letterboxd-template",
+  "devDependencies": {
+    "@jeniex/eslint-config": "^1.0.10"
+  }
+}

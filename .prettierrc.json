@@ -1,0 +1,9 @@
+{
+  "bracketSameLine": true,
+  "printWidth": 80,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "plugins": ["prettier-plugin-jsdoc"],
+  "jsdocPreferCodeFences": false,
+  "jsdocSingleLineComment": true
+}
